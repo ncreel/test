@@ -1,2 +1,2 @@
 # test
-dummy repo for testing Git commands, etc
+Welcome to the empty repo for testing Git commands.
